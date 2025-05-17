@@ -20,4 +20,4 @@ When users initiate searches, queries are sent to external threat intelligence p
 Any updates to this privacy policy will be published at the same URL and take effect immediately.
 
 6. Contact
-For any concerns, please contact the developer at: [your email]
+For any concerns, please contact the developer at: vigilancebrowserextension@gmail.com
