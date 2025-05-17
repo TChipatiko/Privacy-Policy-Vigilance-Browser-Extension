@@ -1,0 +1,23 @@
+Privacy Policy – Vigilance Browser Extension
+
+Effective Date: [Insert today's date]
+
+Vigilance is a browser extension designed to assist cybersecurity professionals in investigating IP addresses and file hashes across multiple threat intelligence platforms.
+
+1. Data Collection
+Vigilance does not collect, store, or transmit any personal, sensitive, or identifiable user data. All actions performed by the extension are initiated manually by the user and are limited to opening threat intelligence websites based on selected text (e.g., IP or hash).
+
+2. Data Usage
+Since no data is collected, there is no use of personal data by this extension.
+
+3. Data Sharing
+This extension does not share any user data with third parties.
+
+4. Third-Party Services
+When users initiate searches, queries are sent to external threat intelligence platforms (e.g., VirusTotal, OTX, IBM X-Force) which may log requests according to their own privacy policies. Vigilance does not control or monitor these services.
+
+5. Changes to This Policy
+Any updates to this privacy policy will be published at the same URL and take effect immediately.
+
+6. Contact
+For any concerns, please contact the developer at: [your email]
